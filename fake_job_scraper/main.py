@@ -16,3 +16,6 @@ def main():
     except requests.RequestException as e:
         logging.error(f"Error fetching the webpage: {e}")
 
+ig __name__ == "__main__":
+    main()
+
